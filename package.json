@@ -1,6 +1,6 @@
 {
-  "name": "vuetify-datepicker",
-  "version": "0.0.1",
+  "name": "vuetify-date-range-picker",
+  "version": "0.0.2",
   "description": "A date range picker for Vuetify",
   "main": "index.js",
   "scripts": {
